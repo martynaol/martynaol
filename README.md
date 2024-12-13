@@ -3,7 +3,7 @@
 A passionate and dedicated professional with two standout strengths:
 
 - 🌈 **Positive thinking** – I excel at finding opportunities and solutions even in challenging situations.
-- 🤝 **Exceptional communication skills** – I build meaningful connections and ensure ideas are shared effectively across teams.
+- 🤝 **Communication skills** – I build meaningful connections and ensure ideas are shared effectively across teams.
 
 With over **10 years of experience** as a **Quality Assurance Engineer**, I specialize in advocating for quality at all levels of an organization—not just within QA teams but across entire workflows. I’m passionate about **process automation** and **workflow optimization**, always striving to deliver exceptional results that drive success. 🚀
 
